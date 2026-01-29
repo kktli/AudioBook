@@ -1,0 +1,7 @@
+{
+  "name": "金庸有聲書 - 倚天屠龍記",
+  "description": "一個精緻的武俠小說有聲書閱讀器，結合 Gemini AI 提供深度文學分析與角色解讀。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
